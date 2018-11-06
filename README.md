@@ -1,3 +1,3 @@
 # OBF
 
-##Redesign Open Bioinformatics Foundation Website and implement in CMS
+## Redesign Open Bioinformatics Foundation Website and implement in CMS
